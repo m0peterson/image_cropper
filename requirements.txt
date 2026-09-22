@@ -1,0 +1,2 @@
+# Windows 8/8.1/10/11, Python 3.9+
+Pillow>=9.0
