@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv38/
+build/
+dist/
+*.spec.bak
+*_parts/
+.DS_Store
